@@ -49,5 +49,9 @@
         <span><strong>NODEJS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
+      <td width="20%" align="center">
+        <span><strong>FIREBASE</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
+      </td>
       </tbody>
 </table>
