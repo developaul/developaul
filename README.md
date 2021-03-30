@@ -9,7 +9,7 @@
 
 ### About Me:
 
-- 👨‍💻 I’m currently learning JavaScript
+- 👨‍💻 I’m currently learning JavaScript & TypeScript
 - :book: I love reading books
 
 
@@ -32,6 +32,10 @@
       <td width="20%" align="center">
         <span><strong>JAVASCRIPT</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="20%" align="center">
+        <span><strong>TYPESCRIPT</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>MONGODB</strong></span><br><br><br>
