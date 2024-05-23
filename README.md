@@ -8,9 +8,11 @@
 
 - 🌱 I’m currently learning **AWS**
 
+- 📚 I'm currently reading **Tidy First?** - Kent Beck
+
 - 👨‍💻 All of my projects are available at [https://www.developaul.com/](https://www.developaul.com/)
 
-- 💬 Ask me about **JavaScript, TypeScript, React, NodeJS**
+- 💬 Ask me about **TypeScript, React, Next, Graphql, NodeJS**
 
 - 📫 How to reach me **paulchavezromero20@gmail.com**
 
