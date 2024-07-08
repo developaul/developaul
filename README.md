@@ -8,13 +8,16 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 📚 I'm currently reading **Tidy First?** - Kent Beck
+- 📚 I'm currently reading **The Software Engineer's Guidebook** - Gergely Orosz
 
 - 👨‍💻 All of my projects are available at [https://www.developaul.com/](https://www.developaul.com/)
 
 - 💬 Ask me about **TypeScript, React, Next, Graphql, NodeJS**
 
 - 📫 How to reach me **paulchavezromero20@gmail.com**
+
+- 📚 Read Books: 
+  - **Tidy First?** - Kent Beck
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
