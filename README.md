@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/developaul" target="_blank"><img src="https://img.shields.io/twitter/follow/developaul?logo=twitter&style=for-the-badge" alt="developaul" /></a> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Software Architecture**
 
 - 📚 I'm currently reading **The Software Engineer's Guidebook** - Gergely Orosz
 
@@ -18,6 +18,7 @@
 
 - 📚 Read Books: 
   - **Tidy First?** - Kent Beck
+  - **The C4 model for visualising software architecture** - Simon Brown
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
